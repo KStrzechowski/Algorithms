@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Graph">
+      <HintPath>D:\Studia\Semestr4\Algorytmy i Struktury Danych 2\Graph.dll</HintPath>
+    </Reference>
+    <Reference Include="TestSet">
+      <HintPath>D:\Studia\Semestr4\Algorytmy i Struktury Danych 2\TestSet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
